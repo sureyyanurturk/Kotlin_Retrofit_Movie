@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="black">#BF000000</color>
+    <color name="powderblack">#BF0B0909</color>
+    <color name="grey">#CDFFF7F7</color>
+    <color name="gray">#CD635F5F</color>
+    <color name="white">#FFFFFF</color>
+    <color name="powderwhite">#FBF7F7</color>
+    <color name="red">#D51515</color>
+    <color name="powderred">#F4C3C3</color>
+    <color name="powderblue">#D4F2F6</color>
+
+</resources>
